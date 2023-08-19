@@ -1,0 +1,1 @@
+https://dashbird.io/blog/kinesis-sqs-sns-comparison/
